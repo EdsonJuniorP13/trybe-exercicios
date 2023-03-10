@@ -30,7 +30,7 @@ Todas as minhas atividades e exercícios do curso de DEV na [Trybe](https://www.
 - [x] 4.1 - JavaScript - DOM e seletores
 - [x] 4.2 - JavaScript - Trabalhando com elementos
 - [x] 4.3 - JavaScript - Eventos
-- [ ] 4.4 - JavaScript - Web Storage
+- [x] 4.4 - JavaScript - Web Storage
 - [ ] 4.5 - Projeto - Arte com Pixels
 - [ ] 4.7 - (Bônus) Projeto - Lista de tarefas
 - [ ] 4.7 - (Bônus) Projeto - Meme Generator
