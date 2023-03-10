@@ -21,15 +21,15 @@ Todas as minhas atividades e exercícios do curso de DEV na [Trybe](https://www.
 ##### Seção 3: [Introdução a JavaScript](https://github.com/EdsonJuniorP13/trybe-exercicios/tree/master/01-fundamentos/secao-03-introducao-a-javascript)
 - [x] 3.1 - JavaScript - Primeiros passos
 - [x] 3.2 - JavaScript - Array e loop For
-- [ ] 3.3 - JavaScript - Lógica de Programação e Algoritmos
-- [ ] 3.4 - JavaScript - Objetos e funções
-- [ ] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 3.6 - Projeto - Playground Functions
+- [x] 3.3 - JavaScript - Lógica de Programação e Algoritmos
+- [x] 3.4 - JavaScript - Objetos e funções
+- [x] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 3.6 - Projeto - Playground Functions
 
 ##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/EdsonJuniorP13/trybe-exercicios/tree/master/01-fundamentos/secao-04-javascript-dom-eventos-e-web-storage)
-- [ ] 4.1 - JavaScript - DOM e seletores
-- [ ] 4.2 - JavaScript - Trabalhando com elementos
-- [ ] 4.3 - JavaScript - Eventos
+- [x] 4.1 - JavaScript - DOM e seletores
+- [x] 4.2 - JavaScript - Trabalhando com elementos
+- [x] 4.3 - JavaScript - Eventos
 - [ ] 4.4 - JavaScript - Web Storage
 - [ ] 4.5 - Projeto - Arte com Pixels
 - [ ] 4.7 - (Bônus) Projeto - Lista de tarefas
