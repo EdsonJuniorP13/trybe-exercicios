@@ -11,14 +11,14 @@ Todas as minhas atividades e exercícios do curso de DEV na [Trybe](https://www.
 - [x] 1.2 - Git - O que é e para que serve
 - [x] 1.3 - Git & GitHub - Entendendo os comandos
 
-##### Seção 2: [Introdução a HTML e& CSS](https://github.com/EdsonJuniorP13/trybe-exercicios/tree/master/01-fundamentos/secao-02-introducao-a-html-e-css)
+##### Seção 2: [Introdução a HTML e& CSS](https://github.com/EdsonJuniorP13/trybe-exercicios/tree/master/01-fundamentos/secao-02-introducao-a-html-e-css) :heavy_check_mark:
 - [x] 2.1 - HTML & CSS - Estruturas de página
 - [x] 2.2 - HTML & CSS - Primeiros passos em CSS
 - [x] 2.3 - HTML & CSS - Seletores e posicionamento
 - [x] 2.4 - HTML Semântico
 - [x] 2.5 - Projeto - Lessons Learned
 
-##### Seção 3: [Introdução a JavaScript](https://github.com/EdsonJuniorP13/trybe-exercicios/tree/master/01-fundamentos/secao-03-introducao-a-javascript)
+##### Seção 3: [Introdução a JavaScript](https://github.com/EdsonJuniorP13/trybe-exercicios/tree/master/01-fundamentos/secao-03-introducao-a-javascript) :heavy_check_mark:
 - [x] 3.1 - JavaScript - Primeiros passos
 - [x] 3.2 - JavaScript - Array e loop For
 - [x] 3.3 - JavaScript - Lógica de Programação e Algoritmos
@@ -26,16 +26,16 @@ Todas as minhas atividades e exercícios do curso de DEV na [Trybe](https://www.
 - [x] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 3.6 - Projeto - Playground Functions
 
-##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/EdsonJuniorP13/trybe-exercicios/tree/master/01-fundamentos/secao-04-javascript-dom-eventos-e-web-storage)
+##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/EdsonJuniorP13/trybe-exercicios/tree/master/01-fundamentos/secao-04-javascript-dom-eventos-e-web-storage) :heavy_check_mark:
 - [x] 4.1 - JavaScript - DOM e seletores
 - [x] 4.2 - JavaScript - Trabalhando com elementos
 - [x] 4.3 - JavaScript - Eventos
 - [x] 4.4 - JavaScript - Web Storage
-- [ ] 4.5 - Projeto - Arte com Pixels
-- [ ] 4.7 - (Bônus) Projeto - Lista de tarefas
-- [ ] 4.7 - (Bônus) Projeto - Meme Generator
-- [ ] 4.7 - (Bônus) Projeto - Adivinhe a Cor
-- [ ] 4.7 - (Bônus) Projeto - Carta Misteriosa
+- [x] 4.5 - Projeto - Arte com Pixels
+- [x] 4.7 - (Bônus) Projeto - Lista de tarefas
+- [x] 4.7 - (Bônus) Projeto - Meme Generator
+- [x] 4.7 - (Bônus) Projeto - Adivinhe a Cor
+- [x] 4.7 - (Bônus) Projeto - Carta Misteriosa
 
 ##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/EdsonJuniorP13/trybe-exercicios/tree/master/01-fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo)
 - [ ] 5.1 - HTML & CSS - Forms
@@ -168,7 +168,7 @@ Todas as minhas atividades e exercícios do curso de DEV na [Trybe](https://www.
 
 ##### Seção 9: [POO e SOLID]()
 - [ ] 9.1 - Introdução à Orientação a Objetos
-- [ ] 9.2 - Herança e Composição
+- [ ] 9.2 - Herança e Composiçãomeu-repositorio-de-exercicios
 - [ ] 9.3 - Polimorfismo
 - [ ] 9.4- Princípios L e I
 - [ ] 9.5 - Projeto - Trybers and Dragons
